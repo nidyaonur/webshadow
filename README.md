@@ -1,1 +1,1 @@
-# webshadow-analyzer
+# webshadow
